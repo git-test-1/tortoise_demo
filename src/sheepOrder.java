@@ -13,7 +13,7 @@ public class sheepOrder {
 	 */
 	public void setQuantity(Integer i) {
 	
-		quantity=i;
+		quantity=i*5;
 		
 	}
 	
